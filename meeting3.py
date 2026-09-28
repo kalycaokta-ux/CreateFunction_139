@@ -43,3 +43,5 @@ def sum( arg1, arg2 ):
 # Now you can call sum function 
 sum( 10, 20 ); 
 print "Outside the function global total : ", total
+
+
